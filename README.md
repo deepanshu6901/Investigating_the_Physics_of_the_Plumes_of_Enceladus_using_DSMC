@@ -1,2 +1,2 @@
-# Invesitgating_the_Physics_of_the_Plumes_of_Enceladus_using_DSMC
+# Invesitgating the Physics of the Plumes of Enceladus using DSMC
 dsmcFoam setup files for Plumes of Enceladus
